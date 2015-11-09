@@ -1,0 +1,24 @@
+{
+  "id": null,
+  "path": "/home/violet/code/qa-test-metadata/tmp/repositories/test/tmp/testsuites/7",
+  "tree_oid": null,
+  "repository_id": 2,
+  "created_at": null,
+  "updated_at": null,
+  "name": "7",
+  "metadata": {
+    "arch": "noarch",
+    "name": "7",
+    "description": "skdjfhksdjhfkjsdhfkjds",
+    "summary": "sdkfjhsdkjfhsdkfhksdjh",
+    "maintainer": "tfeng@suse.com",
+    "status": "development",
+    "id": 15,
+    "rpm": "qa_test_gzip",
+    "product": "sdfsdfsd",
+    "fate": "sdfsdfdsf",
+    "bnc": "sdfsdfsd",
+    "created_at": "2015-11-09 10:10:28 UTC",
+    "updated_at": "2015-11-09 10:10:28 UTC"
+  }
+}
