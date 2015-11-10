@@ -1,0 +1,24 @@
+{
+  "id": null,
+  "path": "/home/violet/code/qa-test-metadata/tmp/repositories/test/tmp/testsuites/test_test",
+  "tree_oid": null,
+  "repository_id": 2,
+  "created_at": null,
+  "updated_at": null,
+  "name": "test_test",
+  "metadata": {
+    "arch": "noarch",
+    "name": "test_test",
+    "description": "this is a test",
+    "summary": "test",
+    "maintainer": "tfeng@suse.com",
+    "status": "ready",
+    "id": 18,
+    "rpm": "test",
+    "product": "test",
+    "fate": null,
+    "bnc": null,
+    "created_at": "2015-11-10 02:42:48 UTC",
+    "updated_at": "2015-11-10 02:42:48 UTC"
+  }
+}
