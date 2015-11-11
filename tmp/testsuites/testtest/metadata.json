@@ -1,0 +1,25 @@
+{
+  "id": null,
+  "path": "/home/violet/code/qa-test-metadata/tmp/repositories/test/tmp/testsuites/testtest",
+  "tree_oid": null,
+  "repository_id": 2,
+  "created_at": null,
+  "updated_at": null,
+  "name": "testtest",
+  "metadata": {
+    "arch": "noarch,aarch64",
+    "name": "testtest",
+    "description": "sdfsf",
+    "summary": "test",
+    "maintainer": "tfeng@suse.com",
+    "status": "development",
+    "id": 27,
+    "rpm": "qa_test_gzip",
+    "product": "sdfsdfsd",
+    "fate": "sdfsdfdsf",
+    "bnc": "sdfsdfsd",
+    "created_at": "2015-11-11 06:01:38 UTC",
+    "updated_at": "2015-11-11 06:01:38 UTC",
+    "tags": "kernel,userspace"
+  }
+}
