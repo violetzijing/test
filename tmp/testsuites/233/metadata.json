@@ -1,0 +1,17 @@
+{
+  "arch": "noarch",
+  "name": "233",
+  "description": "233",
+  "summary": "233",
+  "maintainer": "tfeng@suse.com",
+  "status": "ready",
+  "rpm": "qa_test_gzip",
+  "product": "sdfsdfsd",
+  "fate": "sdfsdfdsf",
+  "bnc": "sdfsdfsd",
+  "updated_at": "2015-11-18 07:34:17 UTC",
+  "tags": [
+    "kernel",
+    "userspace"
+  ]
+}
