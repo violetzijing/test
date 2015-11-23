@@ -1,0 +1,17 @@
+{
+  "arch": "noarch",
+  "name": "70",
+  "description": "sdfsdfsd",
+  "summary": "Shared QA IBM Java function",
+  "maintainer": "tfeng@suse.com",
+  "status": "development",
+  "rpm": "qa_test_gzip",
+  "product": "sdfsdfsd",
+  "fate": "sdfsdfdsf",
+  "bnc": "sdfsdfsd",
+  "updated_at": "2015-11-23 03:03:16 UTC",
+  "tags": [
+    "kernel",
+    "userspace"
+  ]
+}
