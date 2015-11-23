@@ -1,0 +1,17 @@
+{
+  "arch": "noarch",
+  "name": "80",
+  "description": "skdjfhsdkfhk",
+  "summary": "test",
+  "maintainer": "tfeng@suse.com",
+  "status": "ready",
+  "rpm": "qa_test_gzip",
+  "product": "sdfsdfsd",
+  "fate": "sdfsdfdsf",
+  "bnc": "sdfsdfsd",
+  "updated_at": "2015-11-23 03:15:58 UTC",
+  "tags": [
+    "kernel",
+    "userspace"
+  ]
+}
