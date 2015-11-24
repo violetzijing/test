@@ -1,15 +1,15 @@
 {
-  "name": "455",
-  "summary": "455",
-  "description": "455 test test",
-  "status": "development",
-  "maintainer": "tfeng@suse.com",
-  "rpm": "qa_test_gzip",
   "arch": "noarch",
+  "name": "455",
+  "description": "455",
+  "summary": "455",
+  "maintainer": "tfeng@suse.com",
+  "status": "development",
+  "rpm": "qa_test_gzip",
   "product": "sdfsdfsd",
   "fate": "sdfsdfdsf",
   "bnc": "sdfsdfsd",
-  "updated_at": "2015-11-18 09:19:17 UTC",
+  "updated_at": "2015-11-18 08:08:18 UTC",
   "tags": [
     "kernel",
     "userspace"
