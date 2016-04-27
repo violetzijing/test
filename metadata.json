@@ -1,7 +1,7 @@
 {
   "name": "test",
   "summary": "test",
-  "description": "test test",
+  "description": "test test test",
   "status": "development",
   "maintainer": "tfeng@suse.com",
   "rpm": "qa_test_gzip",
@@ -11,6 +11,7 @@
   "bnc": "sdfsdfsd",
   "updated_at": "2015-11-18 09:19:17 UTC",
   "tags": [
-    "kernel"
+    "kernel",
+    "userspace"
   ]
 }
