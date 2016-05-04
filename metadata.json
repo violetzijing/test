@@ -1,7 +1,7 @@
 {
   "name": "test",
   "summary": "test",
-  "description": "test test test",
+  "description": "test test test, this is a test",
   "status": "development",
   "maintainer": "tfeng@suse.com",
   "rpm": "qa_test_gzip",
